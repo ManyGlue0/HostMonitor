@@ -1,4 +1,4 @@
-# Website Monitor
+# Host Monitor
 
 A lightweight Python-based monitor for websites and hosts. Supports
 ICMP, TCP, and HTTP checks with simple syntax. Perfect for quick uptime
