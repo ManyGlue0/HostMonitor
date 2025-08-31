@@ -6,12 +6,12 @@ checks or monitoring multiple targets.
 
 ## Features
 
--   📡 **ICMP Ping** --- Simple host reachability check (requires
+-   📡 **ICMP Ping** - Simple host reachability check (requires
     `ping3`)
--   🔌 **TCP Connect** --- Check host with `host:port` syntax
--   🌐 **HTTP Check** --- Verify site availability with status codes
--   🖥️ **Multi-target Support** --- Pass multiple domains or IPs at once
--   ⚡ **Fast & Async** --- Runs checks concurrently for speed
+-   🔌 **TCP Connect** - Check host with `host:port` syntax
+-   🌐 **HTTP Check** - Verify site availability with status codes
+-   🖥️ **Multi-target Support** - Pass multiple domains or IPs at once
+-   ⚡ **Fast & Async** - Runs checks concurrently for speed
 
 ## Installation
 
